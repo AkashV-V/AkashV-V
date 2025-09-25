@@ -161,7 +161,7 @@ graph TD
 
 <div align="center">
 
-[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashV-V&theme=tokyo-night)](https://github.com/YOUR_USERNAME/github-readme-activity-graph)
+[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashV-V&theme=tokyo-night)](https://github.com/AkashV-V/github-readme-activity-graph)
 
 </div>
 
@@ -201,7 +201,7 @@ graph TD
 
 **Let's build something amazing together! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AkashV-V&color=blueviolet&style=for-the-badge)
 
 </div>
 
