@@ -161,7 +161,7 @@ graph TD
 
 <div align="center">
 
-[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME/github-readme-activity-graph)
+[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashV-V&theme=tokyo-night)](https://github.com/YOUR_USERNAME/github-readme-activity-graph)
 
 </div>
 
