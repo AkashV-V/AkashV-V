@@ -169,13 +169,7 @@ graph TD
 
 ## 🎵 Currently Vibing To
 
-<div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
-*Perfect coding music for those late-night development sessions! 🎧*
-
-</div>
 
 ---
 
