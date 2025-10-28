@@ -157,11 +157,7 @@ graph TD
 
 ---
 
-## 📈 Activity Graph
 
-
-
----
 
 ## 🎵 Currently Vibing To
 
