@@ -159,11 +159,7 @@ graph TD
 
 ## 📈 Activity Graph
 
-<div align="center">
 
-[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashV-V&theme=tokyo-night)](https://github.com/AkashV-V/github-readme-activity-graph)
-
-</div>
 
 ---
 
