@@ -175,17 +175,6 @@ graph TD
 
 ---
 
-<div align="center">
-
-### 💡 Fun Fact
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**Let's build something amazing together! 🚀**
-
-![Profile Views](https://komarev.com/ghpvc/?username=AkashV-V&color=blueviolet&style=for-the-badge)
-
-</div>
 
 ---
 
