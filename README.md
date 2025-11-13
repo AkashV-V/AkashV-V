@@ -17,7 +17,7 @@ class Developer {
 private:
     string name = "Akash";
     string status = "IT Student";
-    vector<string> currentFocus = {"C++", "DSA", "Full-Stack Development"};
+    vector<string> currentFocus = {"C++", "DSA", "Full-Stack Development" };
     
 public:
     void getCurrentlyLearning() {
