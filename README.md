@@ -27,5 +27,7 @@ Own portfolio | wait I will give you
 📫 Get in Touch
 
 Email: akasha09960@gmail.com
+
 LinkedIn: www.linkedin.com/in/akash-v09960/
+
 Portfolio: https://akashv-v.github.io/Portfolio/
